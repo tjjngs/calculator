@@ -106,4 +106,4 @@ class Calculator {
     }
 }
 
-const calculator = new Calculator();
+const calculator = new Calculator(); 
