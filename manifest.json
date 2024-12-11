@@ -6,6 +6,9 @@
     "background_color": "#000000",
     "theme_color": "#000000",
     "orientation": "portrait",
+    "description": "一个简单易用的计算器应用",
+    "categories": ["utilities", "productivity"],
+    "lang": "zh-CN",
     "icons": [
         {
             "src": "icons/icon-192x192.png",
